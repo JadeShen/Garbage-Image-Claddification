@@ -1,4 +1,4 @@
-# Garbage-Image-Claddification
+# Garbage-Image-Classification
 
 ## Team member
 Yutao Shen and Linwan Xu
